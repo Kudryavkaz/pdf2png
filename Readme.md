@@ -1,5 +1,5 @@
 # pdf2png
 
-一个简单的pdf转png程序
+A simple program that translate pdf to png.
 
-本程序在运行时会生成一个in文件夹和一个out文件夹, in文件夹为输入文件夹, out文件夹为输出文件夹。
+Put your pictures into in folder.
